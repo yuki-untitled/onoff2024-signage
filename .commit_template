@@ -1,0 +1,27 @@
+# ==== Commit Messages ====
+
+# ==== Commit Messages(Template) ====
+# [sample] 変更内容
+# 例) [fix] 〇〇のバグを修正しました
+#     [add] ファイルを作成しました
+#     [update] 〇〇の仕様変更に伴い修正しました
+
+# ==== Commit Messages(Template_Issue) ====
+# [sample] #Issue番号 変更内容
+# 例) [fix] #14 〇〇のバグを修正しました
+#     [hotfix] #17 〇〇のクリティカルなバグを急遽修正しました 
+#     [add] #24 新規機能を追加しました
+
+# ==== Prefix ====
+# [fix] バグ修正
+# [hotfix] クリティカルなバグ修正
+# [add] 新規機能・新規ファイル追加
+# [update] バグではない機能修正
+# [change] 仕様変更による機能修正
+# [docs] ドキュメントのみ修正
+# [disable] 無効化
+# [remove] ファイル削除、コードの一部を取り除く
+# [rename] ファイル名の変更
+# [upgrade] バージョンアップ
+# [revert] 修正取り消し
+# [style] 空白、セミコロン、行、コーディングフォーマットなどの修正
